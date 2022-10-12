@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"name": "Áo thun in chữ",
+		"code": "ABC0123",
+		"slug": "abc0123",
+		"productVariants": [
+			{
+				"id": 1,
+				"code": "ABC0123-DEN-S",
+				"price": 350000,
+				"newPrice": 199000,
+				"thumbnails": [
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/3-DEN-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/4-DEN-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/5-DEN-ATC08086.jpg" }
+				],
+				"color": { "code": "1", "name": "Đen" },
+				"size": { "code": "10", "name": "S" },
+				"inventory": 100
+			},
+			{
+				"id": 2,
+				"code": "ABC0123-DEN-M",
+				"price": 350000,
+				"newPrice": 199000,
+				"thumbnails": [
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/3-DEN-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/4-DEN-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/5-DEN-ATC08086.jpg" }
+				],
+				"color": { "code": "1", "name": "Đen" },
+				"size": { "code": "11", "name": "M" },
+				"inventory": 100
+			},
+			{
+				"id": 3,
+				"code": "ABC0123-DEN-L",
+				"price": 350000,
+				"newPrice": 199000,
+				"thumbnails": [
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/3-DEN-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/4-DEN-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/5-DEN-ATC08086.jpg" }
+				],
+				"color": { "code": "1", "name": "Đen" },
+				"size": { "code": "11", "name": "L" },
+				"inventory": 100
+			},
+			{
+				"id": 4,
+				"code": "ABC0123-XANHLA-S",
+				"price": 350000,
+				"newPrice": 199000,
+				"thumbnails": [
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/3-XANH-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/4-XANH-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/5-XANH-ATC08086.jpg" }
+				],
+				"color": { "code": "2", "name": "Xanh lá" },
+				"size": { "code": "10", "name": "S" },
+				"inventory": 100
+			},
+			{
+				"id": 5,
+				"code": "ABC0123-XANHLA-M",
+				"price": 350000,
+				"newPrice": 199000,
+				"thumbnails": [
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/3-XANH-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/4-XANH-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/5-XANH-ATC08086.jpg" }
+				],
+				"color": { "code": "2", "name": "Xanh lá" },
+				"size": { "code": "11", "name": "M" },
+				"inventory": 100
+			},
+			{
+				"id": 6,
+				"code": "ABC0123-XANHLA-L",
+				"price": 350000,
+				"newPrice": 199000,
+				"thumbnails": [
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/3-XANH-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/4-XANH-ATC08086.jpg" },
+					{ "path": "https://js0fpsb45jobj.vcdn.cloud/storage/upload/media/gumac/ATC08086/5-XANH-ATC08086.jpg" }
+				],
+				"color": { "code": "2", "name": "Xanh lá" },
+				"size": { "code": "11", "name": "L" },
+				"inventory": 100
+			}
+		],
+		"tags": [],
+		"attributes": [],
+		"description": "",
+		"outstandingFeatures": ""
+	}
+]
